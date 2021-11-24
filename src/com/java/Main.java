@@ -10,5 +10,6 @@ public class Main {
             System.out.println(a << 2);
         }
         System.out.println(a);
+        System.out.println("Hello, it's ok");
     }
 }
